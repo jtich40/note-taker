@@ -16,7 +16,7 @@ Use the following command to install required dependencies for the application:
 "npm i" will install express and uniqid packages.
 
 ## Usage
-The application is deployed with Heroku at the following link: (https://whispering-temple-49677.herokuapp.com/). Once you reach the notes page, you can simply enter a note title and text and click on the save icon in the top-right corner to add the note to the list. You can remove a note by clicking on the trashcan icon adjacent to each saved note on the list. Below is a screenshot demonstrating the functionality of the app.
+The application is deployed with Heroku and can be found [here](https://whispering-temple-49677.herokuapp.com/). Once you reach the notes page, you can simply enter a note title and text and click on the save icon in the top-right corner to add the note to the list. You can remove a note by clicking on the trashcan icon adjacent to each saved note on the list. Below is a screenshot demonstrating the functionality of the app.
 ![image](https://user-images.githubusercontent.com/116316302/222628599-b2710603-5960-4c73-b6b4-7b4197b91cd5.png)
 
 
